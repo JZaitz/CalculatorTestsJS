@@ -1,0 +1,3 @@
+# CalculatorTestsJS
+
+JavaScript code tests.
